@@ -1,4 +1,4 @@
 streamlit
-rdkit-pypi
 pandas
-view.setBackgroundColor('white')
+py3Dmol
+rdkit
